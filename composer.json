@@ -1,0 +1,16 @@
+{
+    "name": "voltsoft/webinar",
+    "description": "Autowebinar example site",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Surzhikov",
+            "email": "andrey.surzhikov@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "dragonmantank/cron-expression": "^3.0"
+    }
+}
